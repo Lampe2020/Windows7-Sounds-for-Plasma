@@ -2,7 +2,7 @@
 Name=Windows 7
 Comment=Windows 7 Sound Theme for KDE Plasma
 Directories=stereo
-Example=theme-demo
+Example=desktop-login
 
 [stereo]
 OutputProfile=stereo
